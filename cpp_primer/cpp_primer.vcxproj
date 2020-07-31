@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="16.41.cpp" />
+    <ClCompile Include="判断大小端模式.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{37CF9D84-693E-4F10-AB14-36E2009C36F2}</ProjectGuid>

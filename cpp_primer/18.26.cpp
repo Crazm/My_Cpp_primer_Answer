@@ -31,6 +31,9 @@ protected:
 
 struct MI : public Derived, public Base2 {
 	void print(vector<double>){}
+	void fun(){
+		Base2::print(3.25);
+	}
 protected:
 	int *ival;
 	vector<double> dvec;
