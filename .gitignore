@@ -1,5 +1,6 @@
 Debug/
 cpp_primer/Debug
+.vs
 *.sdf
 *.sln
 *.exe
